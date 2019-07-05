@@ -7,3 +7,5 @@ download.file("https://github.com/m-signo/functions/blob/master/msigno_0.0.5.tar
     "msigno")
     
 install.packages("msigno", repos = NULL, type = "source")
+
+Alternatively, you can download the tarball and install it manually.
