@@ -1,6 +1,6 @@
 # functions
 This folder contains a bunch of functions for data management and visualization that I find useful for my daily use of R. 
-The functions are embedded in a (simple and minimalist) R package. A couple of these functions (pmf, make.spaghetti) are also available in the (ptmixed package){https://github.com/m-signo/ptmixed] that can be downloaded from CRAN.
+The functions are embedded in a (simple and minimalist) R package. A couple of these functions (pmf, make.spaghetti) are also available in the (ptmixed package)[https://github.com/m-signo/ptmixed] that can be downloaded from CRAN.
 
 Here's how you can install it from the R console:
 
