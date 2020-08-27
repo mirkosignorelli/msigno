@@ -4,6 +4,6 @@ The functions are embedded in a (simple and minimalist) R package. A couple of t
 
 Here's how you can install it from the R console:
 
-> install.packages("https://github.com/m-signo/functions/raw/master/msigno_0.1.2.tar.gz", repos = NULL, type = "source")
+> install.packages("https://github.com/m-signo/functions/raw/master/msigno_0.2.1.tar.gz", repos = NULL, type = "source")
 
 Alternatively, you can download the tarball and install it manually.
