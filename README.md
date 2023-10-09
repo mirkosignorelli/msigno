@@ -5,6 +5,6 @@ Note that this package is not meant to be a public package (I upload it to a pub
 
 Here's how you can install it from the R console:
 
-> install.packages("https://github.com/m-signo/functions/raw/master/msigno_0.4.1.tar.gz", repos = NULL, type = "source")
+> install.packages("https://github.com/m-signo/functions/raw/master/msigno_0.5.1.tar.gz", repos = NULL, type = "source")
 
 Alternatively, you can download the tarball and install it manually.
